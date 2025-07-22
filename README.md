@@ -9,7 +9,7 @@ A collection of systematic trading strategy projects and portfolio simulations u
 - Assets: SPY (S&P 500 ETF), BTC, ETH
 - Outputs: Returns, cumulative returns, volatility, drawdowns, visualizations
 
-## 2: Goal:
+## 2: Trading strategy:
 Develop and test your first systematic trading strategy: a Moving Average Strategy on SPY.
 
 Generate trading signals (buy/sell)
