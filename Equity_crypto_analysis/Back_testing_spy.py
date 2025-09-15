@@ -1,4 +1,4 @@
-import pandas as pd
+retimport pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from alpaca_trade_api.rest import REST
@@ -6,7 +6,7 @@ import datetime as dt
 
 
 # 1. get SPY data from Alpaca 
-api = REST('PKOEY8NK7JXD8WBD8J82','74b9K2VsGyY68yx7w5Ijov5hKdRXoGCFT0h4EjkT', base_url="https://paper-api.alpaca.markets/v2")
+api = REST('API_ID_here','Secret_key_here', base_url="https://paper-api.alpaca.markets/v2")
 spy = api.get_bars("SPY","1D", start="2019-01-01", end="2024-12-31").df
 
 
