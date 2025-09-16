@@ -1,7 +1,7 @@
 # Quant-Finance_Portfolio
-The Journey To Quant Specialist
+The Journey of a normal person to a specialist in quant
 
-A collection of systematic trading strategy projects and portfolio simulations using Python.
+A collection of systematic trading strategy projects and portfolio simulations using Python and some extra stuff that I am just curious about.
 
 ## 1: Equity & Crypto Data Analysis
 
